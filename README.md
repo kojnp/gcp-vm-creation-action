@@ -52,5 +52,7 @@ gcloud functions deploy vm-creation-test --runtime python37 --trigger-topic proj
 ```
 
 ![log1](https://raw.githubusercontent.com/kojnp/gcp-vm-creation-action/main/images/log.png)
+
 ![log2](https://raw.githubusercontent.com/kojnp/gcp-vm-creation-action/main/images/log2.png)
+
 ![log3](https://raw.githubusercontent.com/kojnp/gcp-vm-creation-action/main/images/log3.png)
